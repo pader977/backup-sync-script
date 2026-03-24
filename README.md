@@ -1,4 +1,4 @@
-# backup-sync-scrypt
+# backup-sync-script
 Un script escrito en bash en el que se crea un .tar.gz de los repositorios elegidos para posteriormete guardarse en el equipo, subirse a otro externo y a la nube de dropbox.
 Este script es útil para realizar copias de seguridad en formato 3-2-1
 
